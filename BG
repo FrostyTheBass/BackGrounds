@@ -1,0 +1,71 @@
+--Chillout Mixer I--
+
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/nptZvUk.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
+
+--Chillout Mixer II--
+
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/mL0fuwb.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
+
+--Digital Dungeon--
+
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/WTylHRy.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
+
+--Digital Dungeon-Lite-
+
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/zSMRtE6.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
+
+--TurnTable.fm Red Theme--
+
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/u36VR4n.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
+
+--TurnTable.fm After Party Theme--
+
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/GZKgCpk.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
+
+--Red Rocks Theme--
+
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/lK4GttQ.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
+
+--Mordor--
+
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/9DVTnnW.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
+
+--Architect Chamber--
+
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/8hfUntO.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
+
+--End Of Line Club--
+
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/6N7svVu.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
+
+--Off The Grid v1--
+
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/JZjGLPH.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
+
+--Off The Grid v2--
+
+
+
+--Digital Desert--
+
+
+
+--Ancient Ruins--
+
+
+
+--Abandoned Ballroom--
+
+
+
+--Orbital Lounge--
+
+
+
+--Skygazer Theme-Lite-
+
+
+
+--Skygazer Theme--
+
+
