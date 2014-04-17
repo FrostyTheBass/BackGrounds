@@ -44,28 +44,28 @@ javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com
 
 --Off The Grid v2--
 
-
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/M4Z45oA.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
 
 --Digital Desert--
 
-
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/tOEACrk.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
 
 --Ancient Ruins--
 
-
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/HG8mqaM.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
 
 --Abandoned Ballroom--
 
-
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/1aw3xcd.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
 
 --Orbital Lounge--
 
-
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/EFXFnql.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
 
 --Skygazer Theme-Lite-
 
-
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/k9zVa92.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
 
 --Skygazer Theme--
 
-
+javascript:(function(){$('body').css('background-image', 'url(http://i.imgur.com/N82wzhY.png)');$('#playback .background').hide();$('#playback-container').css('border', '2px solid #4D4D4D');}());
